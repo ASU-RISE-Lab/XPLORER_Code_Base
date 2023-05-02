@@ -1,0 +1,9 @@
+[submodule "Wrench_Estimator"]
+	path = Wrench_Estimator
+	url = git@github.com:ASU-RISE-Lab/XPLORER_Wrench_Estimator.git
+[submodule "Exploration_Algorithm"]
+	path = Exploration_Algorithm
+	url = git@github.com:ASU-RISE-Lab/XPLORER_Contact_Based_Exploration.git
+[submodule "Mapping_Framework"]
+	path = Mapping_Framework
+	url = git@github.com:ASU-RISE-Lab/XPLORER_Contact_Based_Mapping.git
