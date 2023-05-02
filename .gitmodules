@@ -7,3 +7,6 @@
 [submodule "Mapping_Framework"]
 	path = Mapping_Framework
 	url = git@github.com:ASU-RISE-Lab/XPLORER_Contact_Based_Mapping.git
+[submodule "Arm_Angle_Estimator"]
+	path = Arm_Angle_Estimator
+	url = git@github.com:ASU-RISE-Lab/XPLORER_Arm_Angle_Estimator.git
