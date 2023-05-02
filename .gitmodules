@@ -10,3 +10,6 @@
 [submodule "Arm_Angle_Estimator"]
 	path = Arm_Angle_Estimator
 	url = git@github.com:ASU-RISE-Lab/XPLORER_Arm_Angle_Estimator.git
+[submodule "Custom_Messages"]
+	path = Custom_Messages
+	url = git@github.com:ASU-RISE-Lab/XPLORER_Custom_Messages.git
